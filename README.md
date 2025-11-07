@@ -1,1 +1,1 @@
-# first-repo
+cd first-repo
